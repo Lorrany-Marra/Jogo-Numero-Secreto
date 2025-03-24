@@ -1,7 +1,8 @@
 # 🔐 Jogo do Número Secreto
 
 🎯 Um desafio simples, divertido e viciante!  
-Tente adivinhar o número que está guardado a sete chaves. Será que você consegue?
+Tente adivinhar o número que está guardado a sete chaves. 
+Será que você consegue?
 
 ---
 
