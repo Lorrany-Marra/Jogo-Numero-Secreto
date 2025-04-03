@@ -1,12 +1,12 @@
 # 🔐 Jogo do Número Secreto
 
-🎯 Um desafio simples, divertido e viciante!  
+ Um desafio simples, divertido e viciante!  
 Tente adivinhar o número que está guardado a sete chaves. 
 Será que você consegue?
 
 ---
 
-## 🕹️ Como Funciona?
+##  Como Funciona?
 
 O Jogo do Número Secreto foi criado para testar sua intuição e te prender por alguns minutinhos (ou horas 👀).  
 Veja como jogar:
@@ -14,7 +14,7 @@ Veja como jogar:
 1. O sistema escolhe aleatoriamente um número secreto.
 2. Você tenta adivinhar esse número.
 3. A cada tentativa, o jogo te diz se o palpite é **maior** ou **menor** que o número secreto.
-4. Quando acertar, o jogo celebra com você! 🥳
+4. Quando acertar, o jogo celebra com você! 
 
 ---
 
@@ -22,9 +22,9 @@ Veja como jogar:
 
 Este projeto foi feito com muito carinho utilizando:
 
-- 🧱 **HTML** – Estrutura da página
-- 🎨 **CSS** – Estilização visual
-- 🧠 **JavaScript** – Lógica e interatividade do jogo
+-  **HTML** – Estrutura da página
+-  **CSS** – Estilização visual
+-  **JavaScript** – Lógica e interatividade do jogo
 
 ---
 
